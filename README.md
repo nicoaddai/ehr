@@ -1,2 +1,2 @@
-# ehr
+# EHR
 Work in progress...
