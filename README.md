@@ -1,2 +1,3 @@
 # EHR (Electronic Health Record) System
 ## Work in progress...
+This full-stack application, when completed, will be an electronic health record (EHR) system for low-resource communities.
