@@ -1,1 +1,2 @@
-# ehr
+# EHR (Electronic Health Record) System
+## Work in progress...
