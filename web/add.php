@@ -2,6 +2,7 @@
 <head>
  <title>Electronic Health Records: Add</title>
  <link rel="stylesheet" type="text/css" href="main.css">
+ <script src="js.js">defer</script>
 </head>
 <body>
 <?php include 'nav.php';?>
